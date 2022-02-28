@@ -22,7 +22,8 @@ class LocalOAuthService {
         SocketController.removeUser();
         localStorageService.deleteUser();
         this.loggedUser = null;
-        window.location.reload(true);
+        location.reload();
+        window.location.reload();
     }
 
     getLoggedUser() {

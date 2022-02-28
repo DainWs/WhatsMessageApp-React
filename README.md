@@ -6,6 +6,12 @@
 ## Caracteristics
 Login with an selected **image**, **name** and **state** (*connected* or *disconnected*):
 
+You can type messages with all guys in the global chat:
+
+Too you can chatting with your friends in private chats:
+
+And upload files!!!!
+
 ## Avaibles commands
 These are the commands you can use for this Node Multi Project:
  - `npm run start` will build the client side version, and then the server will start.
